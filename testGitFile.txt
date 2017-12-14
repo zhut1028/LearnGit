@@ -1,1 +1,2 @@
-I want to learn the Git tool.
+I want to study the Git tool by myself.
+This line added is aim to changing this file.
